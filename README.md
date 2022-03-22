@@ -1,7 +1,7 @@
 # CodeObfuscator
 Code Obfuscator written in parametric javascript
 
-This program can be run either client-side only of using a PHP server (no Node.js is needed). See Nativity section to make it run client-side by alterting only two lines of the code.
+This program can be run either client-side only of using a PHP server (no Node.js is needed). See Nativity section to make it run client-side only by alterting only two lines of the code.
 
 Copyright
 ---------
